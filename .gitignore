@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environnements
+.env
+.venv/
+venv/
+
+# Snowflake / secrets
+*.env
+*.toml
+
+# Streamlit cache
+.streamlit/
+
+# OS
+.DS_Store
